@@ -1,4 +1,4 @@
-Object:  redWineBottle
+Object:  Barolo
 
 bottleColor:  "red"
 labels: ["Price label", "DOP label", "Company label"]
