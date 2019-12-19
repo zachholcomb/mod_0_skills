@@ -1,0 +1,16 @@
+Class : Table
+
+Attributes:
+
+tableClothColor (string)
+tablePlates (array)
+isDirty (boolean)
+tableMaterial (string)
+
+
+Methods:
+
+changeTableCloth (Changes tableClothColor from "red" to "blue")
+addPlate (adds plate as a string to the end of the tablePlates array)
+removePlate (removes plate as a string from the beginning of the tablePlates array)
+cleanTable (change isDirty to false)
