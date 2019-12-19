@@ -1,0 +1,14 @@
+Object:  redWineBottle
+
+bottleColor:  "red"
+labels: ["Price label", "DOP label", "Company label"]
+currentCapacity:  100
+totalCapacity:  100
+isOpen: false
+
+
+
+changeBottleColor:  "green"
+removeLabel:  ["DOP label", "Company label"]
+openBottle: (isOpen = true)
+calculatePercentfull:  (100 / 100 = 1)
