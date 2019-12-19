@@ -1,0 +1,13 @@
+Object:  diningRoomTable
+
+
+tableClothColor:  "red"
+tablePlates: ["Dinner Plate", "Appetizer Plate", "Bread Plate"]
+isDirty:  true
+tableMaterial:  "wood"
+
+
+changeTableCloth ("blue")
+addPlate (adds "Small Plate" ["Dinner Plate", "Appetizer Plate", "Bread Plate", "Small Plate"])
+removePlate ["Appetizer Plate", "Bread Plate", "Small Plate"]
+cleanTable (isDirty = false)
