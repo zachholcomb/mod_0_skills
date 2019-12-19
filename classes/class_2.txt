@@ -1,0 +1,18 @@
+Class:  wineBottle
+
+Attributes:
+
+
+bottleColor (string)
+labels (array)
+currentCapacity (integer)
+totalCapacity (integer)
+isOpen (boolean)
+
+
+Methods:
+
+changeBottleColor (changes bottleColor from "red" to "green")
+removeLabel (removes string from beginning of labels array)
+openBottle (changes isOpen to true)
+calculatePercentfull (divides currentCapacity by totalCapacity)
