@@ -1,0 +1,80 @@
+Become a Turing student
+1. Apply to Turing
+  1.1 Fill out an application
+    1.1.1 Go to turing website
+      1.1.1.1 Open computer
+      1.1.1.2 Open chrome on computer
+      1.1.1.3 Type turing.io into browser
+    1.1.2 Click on backend engineering section
+    1.1.3 Click on Apply Now
+      1.1.3.1 Read information on page
+      1.1.3.2 Watch video on page
+      1.1.3.3 Click Apply Now button
+      1.1.3.4 Fill out form
+        1.1.3.4.1 Fill out first name
+        1.1.3.4.2 Fill out last name
+        1.1.3.4.3 Fill out email
+      1.1.3.5 Wait for email from Turing
+      1.1.3.6 Click on Complete your application link in email from Turing
+  1.2 Submit resume
+    1.2.1 Make a word document
+    1.2.2 Fill out resume
+      1.2.2.1 Fill out resume with contact information
+      1.2.2.2 Fill out resume with work history
+      1.2.2.3 Fill out resume with professional references
+      1.2.2.4 Fill out resume with personal references
+    1.2.3 Save document
+    1.2.4 Upload document to Turing
+  1.3 Complete logic quiz
+    1.3.1 Follow the link to complete the logic quiz
+    1.3.2 Submit your answers to turing
+  1.4 Wait for response from Turing
+    1.4.1 Check email obsessively
+    1.4.2 Read email from Turing
+    1.4.3 Jump for joy
+2. Complete interview process
+  2.1 Attend in person interview
+    2.1.1 Open email
+    2.1.2 Read email from Turing
+    2.1.3 Follow link to schedule interview at apply.turing.io
+    2.1.4 Schedule interview
+    2.1.5 Attend interview
+      2.1.5.1 Drive to Turing
+      2.1.5.2 Park Car
+      2.1.5.3 Get lost trying to find Turing but eventually locate it
+      2.1.5.4 Greet interviewee
+  2.2 Complete logic aptitude exercises
+    2.2.1 Read paper given
+    2.2.3 Complete problems one at a time
+  2.3 Complete conversation about community
+  2.4 Wait for response from Turing
+    2.4.1 Check email
+    2.4.2 Read email from turing
+3. Select Cohort
+  3.1 Enroll in Cohort
+    3.1.1 Read email from Turing
+    3.1.2 Create account with census
+    3.1.3 Visit enroll.turing.io
+  3.2 Pay deposit
+    3.2.1 Visit enroll.turing.io
+    3.2.2 Go to pay deposit section
+    3.2.3 Pay deposit
+      3.2.3.1 Enter bank account information
+        3.2.3.1.1 Enter bank account number
+        3.2.3.1.2 Enter bank account routing number
+      3.2.3.2 Agree to terms
+  3.3 Select starting date
+4. Secure tuition financing
+  4.1 Complete application for financing
+    4.1.1 Open email from turing about financing options
+    4.1.2 Visit websites about financing options
+    4.1.3 Select financing option
+    4.1.4 Fill out application
+  4.2 Wait for approval
+    4.2.1 Check email
+    4.2.2 Read email from financing option
+  4.3 Submit to Turing
+  4.4 Sign student enrollment agreement
+    4.4.1 Sign agreement
+    4.4.2 Fill out the financing option that you chose
+5. Sign up for Mod 0 start date
